@@ -1,0 +1,12 @@
+package com.moveinsync.distance.model;
+
+public enum AnchorSource {
+    GPS_PING,
+    EMPLOYEE_ACTUAL_STOP,
+    EMPLOYEE_FALLBACK_ADHOC_HOME,
+    EMPLOYEE_FALLBACK_PLANNED,
+    NO_SHOW_ACTUAL,
+    NO_SHOW_PLANNED,
+    OFFICE_ACTUAL,
+    OFFICE_PLANNED_FALLBACK
+}
