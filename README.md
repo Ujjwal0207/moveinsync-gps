@@ -8,8 +8,7 @@
 [![Benchmark](https://img.shields.io/badge/Benchmark-10k%20trips%20in%203.89s-blueviolet)](BENCHMARK.md)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-> **MoveInSync Advanced Track (IIIT & NIT) · Backend Hiring Assessment 2026**  
-> **Author:** Ujjwal Kumar ([@Ujjwal0207](https://github.com/Ujjwal0207))  
+> **Author:** Ujjwal Goyal ([@Ujjwal0207](https://github.com/Ujjwal0207))  
 > **Repository:** [https://github.com/Ujjwal0207/moveinsync-gps](https://github.com/Ujjwal0207/moveinsync-gps)  
 > A high-performance, fault-tolerant, audit-grade service for reconstructing billable cab distances from noisy, fragmented GPS streams and enterprise business milestones.
 
@@ -629,8 +628,7 @@ docker compose up --build
 
 ---
 
-## 👨‍💻 Author & Assessment Verification
-* **Candidate:** Ujjwal Kumar
+## 👨‍💻 Author
+* **Author:** Ujjwal Goyal
 * **GitHub:** [@Ujjwal0207](https://github.com/Ujjwal0207)
-* **Program:** MoveInSync Advanced Track (IIIT & NIT) Backend Hiring Assessment 2026
-* **Case Study:** Case Study 1 — GPS Gap Backfill & Billable Distance Reconstruction Engine
+* **Project:** MoveInSync GPS Gap Backfill & Billable Distance Reconstruction Engine
